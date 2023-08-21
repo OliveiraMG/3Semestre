@@ -47,11 +47,11 @@ public class Musica {
         this.artista = artista;
     }
 
-    public LocalDate getDataCriacaon() {
-        return dataCriacaon;
+    public LocalDate getDataCriacao() {
+        return dataCriacao;
     }
 
-    public void setDataCriacaon(LocalDate dataCriacaon) {
-        this.dataCriacaon = dataCriacaon;
+    public void setDataCriacaon(LocalDate dataCriacao) {
+        this.dataCriacao = dataCriacao;
     }
 }
