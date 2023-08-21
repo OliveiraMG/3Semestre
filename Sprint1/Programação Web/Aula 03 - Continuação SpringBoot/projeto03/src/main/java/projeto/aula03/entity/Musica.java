@@ -1,4 +1,4 @@
-package projeto.aula03;
+package projeto.aula03.entity;
 
 import java.time.LocalDate;
 
@@ -51,7 +51,7 @@ public class Musica {
         return dataCriacao;
     }
 
-    public void setDataCriacaon(LocalDate dataCriacao) {
+    public void setDataCriacao(LocalDate dataCriacao) {
         this.dataCriacao = dataCriacao;
     }
 }
