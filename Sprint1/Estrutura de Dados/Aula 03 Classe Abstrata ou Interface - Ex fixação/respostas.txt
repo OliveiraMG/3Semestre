@@ -1,0 +1,2 @@
+1 - Nessa situação o mais recomendadpossível que crie um método abstrato e assim as classes herdeiras são obrigadas a passá-lo com uma sobrescrita, fazendo com que cada classe herdeira possa ter um cálculo diferente para esse método.
+
