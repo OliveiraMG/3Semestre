@@ -14,7 +14,6 @@ public class Exercicio02 {
             vetor[i] = leitor.nextInt();
         }
 
-        System.out.println("Calcula a média do vetor:");
         int soma = 0;
         int media = 0;
         for (int i = 0; i < vetor.length; i++) {
