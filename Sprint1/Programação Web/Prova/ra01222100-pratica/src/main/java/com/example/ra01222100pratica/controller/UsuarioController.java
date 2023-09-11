@@ -13,8 +13,6 @@ public class UsuarioController {
 
     public List<Usuario> listaUsuarios = new ArrayList<>();
 
-    // O e-mail fornecido não deve existir na lista de usuários.
-
     @PostMapping
     public ResponseEntity<Usuario> cadastrarUsuario(@RequestBody Usuario usuarioNovo) {
         for (Usuario usuario : listaUsuarios) {
