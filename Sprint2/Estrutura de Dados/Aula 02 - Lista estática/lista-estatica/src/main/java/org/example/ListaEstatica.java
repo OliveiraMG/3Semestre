@@ -1,8 +1,8 @@
 package org.example;
 
 public class ListaEstatica {
-    private int[] vetorNumero;
-    private int numeroElementos; // Representa a quantidade de elementos que estão no vetor
+    public int[] vetorNumero;
+    public int numeroElementos; // Representa a quantidade de elementos que estão no vetor
 
     public ListaEstatica(int tamanho) {
         vetorNumero = new int[tamanho];

@@ -47,5 +47,22 @@ public class Main {
         lista.adicionaNoInicio(50);
 
         lista.exibir();
+
+        System.out.println("\n---------------------Lista estatica Ordenada---------------------\n");
+
+        ListaEstaticaOrdenada listaOrdenada = new ListaEstaticaOrdenada(10);
+
+        listaOrdenada.adicionar(10);
+        listaOrdenada.adicionar(5);
+        listaOrdenada.adicionar(20);
+        listaOrdenada.adicionar(15);
+        listaOrdenada.adicionar(30);
+        listaOrdenada.adicionar(25);
+        listaOrdenada.adicionar(40);
+        listaOrdenada.adicionar(35);
+        listaOrdenada.adicionar(50);
+
+        listaOrdenada.exibir();
+
     }
 }
