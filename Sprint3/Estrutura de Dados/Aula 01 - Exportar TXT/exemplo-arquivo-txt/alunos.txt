@@ -1,0 +1,7 @@
+00NOTA2023224-10-2023 21:01:1301
+02ADS  01222013João                                              Estrutura de dados                      08,00020
+02ADS  01222014Maria                                             Estrutura de dados                      09,00020
+02ADS  01222015José                                              Estrutura de dados                      10,00010
+02ADS  01222016Ana                                               Estrutura de dados                      07,00015
+02ADS  01222017Carlos                                            Estrutura de dados                      06,00010
+010000000005

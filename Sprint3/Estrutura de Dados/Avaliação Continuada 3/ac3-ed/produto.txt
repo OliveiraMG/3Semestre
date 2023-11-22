@@ -1,0 +1,7 @@
+00PRODUTO21-11-2023 10:50:2901
+022000Jogo 2 potes marmita                    Cozinha                       04030,990150
+022001Perfume Frutal                          Perfumaria                    12119,900040
+022003Protetor solar FPS 30                   Higiene                       04039,990065
+022004Desodorante spray corporal              Higiene                       03031,990120
+022005Hidratante facial antissinais           Higiene                       10089,900070
+0300005

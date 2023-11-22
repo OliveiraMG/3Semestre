@@ -1,0 +1,11 @@
+
+Jogo - Produtora
+
+Pacotes:
+
+- entidades -> Cuida de classes que representam entidades em um db;
+- repositorios -> Cuida de classes ou interfaces que usam o db;
+- servico -> Regra de negócio, usa as duas acima;
+- DTO (Ou aqui)
+- controladoras(API) -> Cuida de requisicoes e respostas;
+	- DTO (Ou aqui)

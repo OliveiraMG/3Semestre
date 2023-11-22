@@ -1,0 +1,6 @@
+00NOTA2021225-10-2021 21:04:4401
+02ADS  01202111Maria Sousa                                       Banco de Dados                          09,00007
+02ADS  01202122João Teixeira                                     Análise de Sistemas                     07,50008
+02REDES01202133Ana Tavares                                       Cabeamento Estruturado                  06,50010
+02CCO  01202144Mário Lopes                                       Cálculo e Estatística                   10,00000
+010000000004
